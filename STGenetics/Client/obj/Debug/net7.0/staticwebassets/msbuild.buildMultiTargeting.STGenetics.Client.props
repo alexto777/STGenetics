@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\STGenetics.Client.props" />
+</Project>

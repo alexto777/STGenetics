@@ -1,0 +1,11 @@
+C:\Users\alext\Documents\Alex\Blazor\STGenetics\STGenetics\Shared\bin\Debug\net7.0\STGenetics.Shared.deps.json
+C:\Users\alext\Documents\Alex\Blazor\STGenetics\STGenetics\Shared\bin\Debug\net7.0\STGenetics.Shared.dll
+C:\Users\alext\Documents\Alex\Blazor\STGenetics\STGenetics\Shared\bin\Debug\net7.0\STGenetics.Shared.pdb
+C:\Users\alext\Documents\Alex\Blazor\STGenetics\STGenetics\Shared\obj\Debug\net7.0\STGenetics.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alext\Documents\Alex\Blazor\STGenetics\STGenetics\Shared\obj\Debug\net7.0\STGenetics.Shared.AssemblyInfoInputs.cache
+C:\Users\alext\Documents\Alex\Blazor\STGenetics\STGenetics\Shared\obj\Debug\net7.0\STGenetics.Shared.AssemblyInfo.cs
+C:\Users\alext\Documents\Alex\Blazor\STGenetics\STGenetics\Shared\obj\Debug\net7.0\STGenetics.Shared.csproj.CoreCompileInputs.cache
+C:\Users\alext\Documents\Alex\Blazor\STGenetics\STGenetics\Shared\obj\Debug\net7.0\STGenetics.Shared.dll
+C:\Users\alext\Documents\Alex\Blazor\STGenetics\STGenetics\Shared\obj\Debug\net7.0\refint\STGenetics.Shared.dll
+C:\Users\alext\Documents\Alex\Blazor\STGenetics\STGenetics\Shared\obj\Debug\net7.0\STGenetics.Shared.pdb
+C:\Users\alext\Documents\Alex\Blazor\STGenetics\STGenetics\Shared\obj\Debug\net7.0\ref\STGenetics.Shared.dll
